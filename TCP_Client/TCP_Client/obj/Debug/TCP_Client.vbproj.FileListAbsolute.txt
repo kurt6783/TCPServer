@@ -1,0 +1,10 @@
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\bin\Debug\TCP_Client.exe
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\bin\Debug\TCP_Client.pdb
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\bin\Debug\TCP_Client.xml
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\TCP_Client.Form1.resources
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\TCP_Client.Resources.resources
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\TCP_Client.vbproj.GenerateResource.Cache
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\TCP_Client.exe
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\TCP_Client.xml
+C:\Users\D90-045\AppData\Local\Temporary Projects\TCP_Client\obj\Debug\TCP_Client.pdb

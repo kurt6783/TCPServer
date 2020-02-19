@@ -1,0 +1,23 @@
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\bin\Debug\Client.exe
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\bin\Debug\Client.pdb
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\bin\Debug\Client.xml
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\Client.Form1.resources
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\Client.Resources.resources
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\Client.exe
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\Client.xml
+C:\Users\D90-045\AppData\Local\Temporary Projects\Client\obj\Debug\Client.pdb
+C:\Users\D90-045\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\D90-045\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\D90-045\Desktop\Client\Client\bin\Debug\Client.xml
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\Client.Resources.resources
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\Client.xml
+C:\Users\D90-045\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\D90-045\Desktop\TCP\Client\Client\obj\Debug\Client.exe
+C:\Users\D90-045\Desktop\TCP\Client\Client\obj\Debug\Client.xml
+C:\Users\D90-045\Desktop\TCP\Client\Client\obj\Debug\Client.pdb
